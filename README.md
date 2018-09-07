@@ -10,6 +10,7 @@ Aplicación que consiste en un sencillo Xilófono virtual que nos permite hacer 
 ## Motivación
 La aplicación ha sido desarrollada para poner en práctica la búsqueda de conceptos en la documentación oficial de Android y
 llevarlos a la práctica, concretamente lo relacionado con la carga y eventos de sonido en Android.
+- [Android Developers](https://developer.android.com/guide/)
 
 ## Creado con
 - [Android Studio](https://developer.android.com/studio/)
